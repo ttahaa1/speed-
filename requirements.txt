@@ -1,0 +1,8 @@
+websocket-client==1.2.0
+random==1.0.0
+python-telegram-bot==19.0
+names==0.3.0
+os==0.1.2
+time==0.1.0
+gzip==1.10
+colorama==0.4.4
