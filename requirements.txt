@@ -1,6 +1,6 @@
-websocket-client
-python-telegram-bot
-names
+websocket-client>=1.7.0
+python-telegram-bot>=20.7
+names==0.3.0
 os
 time
 gzip
